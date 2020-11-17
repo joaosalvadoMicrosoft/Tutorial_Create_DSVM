@@ -103,5 +103,5 @@ Congratulations! With a few steps, you deployed a Data Science Virtual Machine r
 
 
 Next hands on Lab:
-[Access the jupyter notebook](https://github.com/joaosalvadoMicrosoft/Tutorial_Create_DSVM/blob/main/3.%20Access%20the%20jupyter%20notebook/README.md)
+[Access the jupyter notebook](https://github.com/joaosalvadoMicrosoft/Tutorial_Create_DSVM/blob/master/3.%20Access%20the%20jupyter%20notebook/README.md)
 
