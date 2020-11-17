@@ -38,4 +38,4 @@ Congratulations! You have successfully set up a free account, and should be on t
 
 
 Next hands on Lab:
-[Create an Azure Data Science Virtual Machine](https://github.com/joaosalvadoMicrosoft/Tutorial_Create_DSVM/blob/main/2.%20Create%20an%20Azure%20DSVM%20Virtual%20Machine/README.md)
+[Create an Azure Data Science Virtual Machine](https://github.com/joaosalvadoMicrosoft/Tutorial_Create_DSVM/blob/master/2.%20Create%20an%20Azure%20DSVM%20Virtual%20Machine/README.md)
