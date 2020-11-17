@@ -25,8 +25,8 @@ Please follow the steps on the Hands on Labs.
 
 # Hands on Labs 
 
-[1. Create an Azure account](https://github.com/joaosalvadoMicrosoft/Tutorial_Create_DSVM/tree/main/1.%20Create%20an%20Azure%20account/README.md) 
+[1. Create an Azure account](https://github.com/joaosalvadoMicrosoft/Tutorial_Create_DSVM/tree/master/1.%20Create%20an%20Azure%20account) 
 
-[2. Create an Azure DSVM Virtual Machine](https://github.com/joaosalvadoMicrosoft/Tutorial_Create_DSVM/blob/main/1.%20Create%20an%20Azure%20account/README.md) 
+[2. Create an Azure DSVM Virtual Machine](https://github.com/joaosalvadoMicrosoft/Tutorial_Create_DSVM/tree/master/2.%20Create%20an%20Azure%20DSVM%20Virtual%20Machine) 
 
-[3. Access the jupyter notebook](https://github.com/joaosalvadoMicrosoft/Tutorial_Create_DSVM/tree/main/3.%20Access%20the%20jupyter%20notebook/README.md)
+[3. Access the jupyter notebook](https://github.com/joaosalvadoMicrosoft/Tutorial_Create_DSVM/tree/master/3.%20Access%20the%20jupyter%20notebook)
